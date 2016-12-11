@@ -1,0 +1,26 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinLMacLeod1/ReactTest.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Colin MacLeod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinLMacLeod1/ReactTest/issues"
+  },
+  "homepage": "https://github.com/ColinLMacLeod1/ReactTest#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "webpack": "^1.14.0"
+  }
+}
