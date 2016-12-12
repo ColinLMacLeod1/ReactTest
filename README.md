@@ -1,1 +1,1 @@
-Repository of small prjects to learn ReactJS
+# github-battle
