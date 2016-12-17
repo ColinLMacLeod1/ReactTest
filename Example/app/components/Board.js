@@ -5,7 +5,9 @@ var styles = require('../styles');
 
 function Board(props) {
 	return (
-			<div> <h2> {props.styleTrack} </h2> <br />
+			<div> 
+				<h1 style={styles.fontG}> Click the boxes! </h1> 
+				<h2 style={styles.fontG}> {props.styleTrack} </h2> <br />
 				<button className="btn" style={props.style[0]} onClick={() => props.Click(0)}></button>
 				<button className="btn" style={props.style[1]} onClick={() => props.Click(1)}></button>
 				<button className="btn" style={props.style[2]} onClick={() => props.Click(2)}></button>

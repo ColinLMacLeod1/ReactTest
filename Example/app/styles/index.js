@@ -41,8 +41,10 @@ var styles = {
 		height: '5em',
 		cursor: 'pointer',
 		marginTop: '0em'
+	},
+	fontG:{
+		fontFamily: 'Architects Daughter'
 	}
-
 
 
 }
