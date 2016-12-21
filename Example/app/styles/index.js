@@ -44,6 +44,12 @@ var styles = {
 	},
 	fontG:{
 		fontFamily: 'Architects Daughter'
+	},
+	arrow:{
+		cursor: 'pointer',
+		width: '5em',
+		height: '3em',
+		display: 'inline-block'
 	}
 
 
